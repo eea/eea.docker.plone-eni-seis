@@ -31,7 +31,7 @@ Now get the source code:
     $ git clone https://github.com/eea/eea.docker.plone-eni-seis.git
     $ cd eea.docker.plone-eni-seis/devel
 
-And the `ENI SEIS Add-ons` source code:
+And the Plone Add-ons source code:
 
     $ docker-compose up source_code
 
@@ -54,8 +54,8 @@ Once you're done editing, restart the application and test your changes:
 
 ### Deployment
 
-  $ git clone https://github.com/eea/eea.docker.plone-eni-seis.git
-  $ cd eea.docker.plone-eni-seis/deploy
+    $ git clone https://github.com/eea/eea.docker.plone-eni-seis.git
+    $ cd eea.docker.plone-eni-seis/deploy
 
 Deploy on staging:
 

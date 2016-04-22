@@ -1,4 +1,4 @@
-# ENI SEIS Plone Instance Docker Image (EEA KGS based)
+# ENI SEIS Deployment (based on EEA KGS)
 
 ## Base docker image
 
@@ -33,12 +33,11 @@ Now get the source code:
 
 And the Plone Add-ons source code:
 
-    $ docker-compose up source_code
+    $ docker-compose -f source-code.yml up
 
 Start the application:
 
-    $ docker-compose up -d
-    $ docker-compose logs
+    $ docker-compose up
 
 Within your favorite browser head to http://localhost:8080,
 add a Plone site and install `eni.seis.theme` and `eni.seis.content` add-ons.

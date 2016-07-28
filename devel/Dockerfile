@@ -1,4 +1,4 @@
-FROM eeacms/kgs:devel
+FROM eeacms/kgs:7.1
 MAINTAINER "EEA: IDM2 B-Team"
 
 RUN curl -o /plone/instance/buildout.cfg -SL https://raw.githubusercontent.com/eea/eea.docker.plone-eni-seis/master/buildout.cfg \

@@ -1,5 +1,6 @@
 Deploys
 =======
+9.6-1.2. #83535 Add fields in the Events
 9.6-1.1. #83544 Automatic email when approving users
 9.6-1.0. #82545 Add new fields for user profile.
 9.5-1.0. #83002

@@ -1,5 +1,6 @@
 Deploys
 =======
+2.5 #85038 South theme updates
 2.4 #85038 South theme updates
 2.3 #85038 second preview of new theme for South
 2.2 #83535 eni.seis.content and eea.meeting updates.

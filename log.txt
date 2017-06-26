@@ -1,5 +1,6 @@
 Deploys
 =======
+2.9 URGENT eea.meeting: Fix UnicodeEncodeError in save_email_approved.
 2.8 #84441 Demo website deploy - fix portlets errors
 2.7 #84441 Demo website deploy - updates new theme South
 2.6 #84441 Production deploy - new theme for South

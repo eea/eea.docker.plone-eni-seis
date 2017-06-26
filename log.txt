@@ -1,5 +1,6 @@
 Deploys
 =======
+3.1 #86299 Homepage - 4 upcoming events (Event & eea.meeting items)
 3.0 URGENT eea.meeting: Fix UnicodeEncodeError in save_email_approved. (david)
 2.9 URGENT eea.meeting: Fix UnicodeEncodeError in save_email_approved.
 2.8 #84441 Demo website deploy - fix portlets errors

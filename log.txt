@@ -1,5 +1,6 @@
 Deploys
 =======
+4.1 #86208 Minor theme updates
 4.0 #86208 Fix default layout for new folders
 3.7 #86208 East theme - Deploy new theme for East on production
 3.6 #86208 East theme - 3rd preview on demo website - added reports, indicators

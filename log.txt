@@ -1,6 +1,7 @@
 Deploys
 =======
-4.6 #87783, #87785, #87786 - South country page desugn update, other small fixes
+4.7 #87783 - eea.meeting restore columns in Subscribers table; fix diazo rules
+4.6 #87783, #87785, #87786 - South country page design update, other small fixes
 4.5 eea.meeting - Updates: subscribers columns and export.
 4.4 #87630 Fix multiple registration
 4.3 Update maps in homepage, other minor fixes in East theme

@@ -1,5 +1,28 @@
 Deploys
 =======
+4.7 #87783 - eea.meeting restore columns in Subscribers table; fix diazo rules
+4.6 #87783, #87785, #87786 - South country page design update, other small fixes
+4.5 eea.meeting - Updates: subscribers columns and export.
+4.4 #87630 Fix multiple registration
+4.3 Update maps in homepage, other minor fixes in East theme
+4.1 #86208 Minor theme updates
+4.0 #86208 Fix default layout for new folders
+3.7 #86208 East theme - Deploy new theme for East on production
+3.6 #86208 East theme - 3rd preview on demo website - added reports, indicators
+3.5 #86208 East theme - second preview on demo website
+3.4 #86911 http - https migration
+3.3 #86208 East theme - first preview on demo website
+3.2 eea.meeting fixes
+3.1 #86299 Homepage - 4 upcoming events (Event & eea.meeting items)
+3.0 URGENT eea.meeting: Fix UnicodeEncodeError in save_email_approved. (david)
+2.9 URGENT eea.meeting: Fix UnicodeEncodeError in save_email_approved.
+2.8 #84441 Demo website deploy - fix portlets errors
+2.7 #84441 Demo website deploy - updates new theme South
+2.6 #84441 Production deploy - new theme for South
+2.5 #85038 South theme updates
+2.4 #85038 South theme updates
+2.3 #85038 second preview of new theme for South
+2.2 #83535 eni.seis.content and eea.meeting updates.
 2.1 #83535 eni.seis.content and eea.meeting updates.
 2.0 #84878 first preview of new theme for South
 1.9 #83535 eni.seis.content and eea.meeting fixes

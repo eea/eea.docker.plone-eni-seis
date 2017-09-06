@@ -1,6 +1,6 @@
 Deploys
 =======
-4.8 eea.meeting - Fix error on Approve and Delete subscribers.
+4.9 eea.meeting - Fix error on Approve and Delete subscribers.
 4.7 #87783 - eea.meeting restore columns in Subscribers table; fix diazo rules
 4.6 #87783, #87785, #87786 - South country page design update, other small fixes
 4.5 eea.meeting - Updates: subscribers columns and export.

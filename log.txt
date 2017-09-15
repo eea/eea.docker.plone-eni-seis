@@ -1,5 +1,7 @@
 Deploys
 =======
+5.2 #87782 Synchronized NFPs
+5.1 rebuild
 5.0 #88096, #88156 - eea.meeting - fix email notification / archive; map styles
 4.9 eea.meeting - Fix error on Approve and Delete subscribers.
 4.7 #87783 - eea.meeting restore columns in Subscribers table; fix diazo rules

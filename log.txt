@@ -1,5 +1,6 @@
 Deploys
 =======
+5.3 Back to eea kgs 10.8 to get rid of ImportError: No module named cover.interfaces
 5.2 #87782 Synchronized NFPs
 5.1 rebuild
 5.0 #88096, #88156 - eea.meeting - fix email notification / archive; map styles

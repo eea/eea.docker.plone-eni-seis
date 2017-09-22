@@ -1,5 +1,7 @@
 Deploys
 =======
+5.5.2 #88167 - eea.meeting - solved error on approving participant
+5.5.1 - all 5 tickets to be deployed on demo
 5.5 #88184 eea.meeting - update export xls
 5.4 Use latest kgs, error was fixed.
 5.3 Back to eea kgs 10.8 to get rid of ImportError: No module named cover.interfaces

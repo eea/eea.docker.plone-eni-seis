@@ -1,5 +1,6 @@
 Deploys
 =======
+5.5.5 #88594 - eea.meeting - Mail archive fixes
 5.5.4 #88593 - register to a meeting: fix duplicate email notifications
 5.5.3 #88495 - eni.seis.content, eea.meeting - repair dexterity content types
 5.5.2 #88167 - eea.meeting - solved error on approving participant

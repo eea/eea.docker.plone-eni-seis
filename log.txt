@@ -1,5 +1,6 @@
 Deploys
 =======
+5.5.7 #88611 - Feature: Add video (custom behavior for videos added in meetings)
 5.5.6 #88608 - Reset password: add messages for EIONET members.
 5.5.5 #88594 - eea.meeting - Mail archive fixes
 5.5.4 #88593 - register to a meeting: fix duplicate email notifications

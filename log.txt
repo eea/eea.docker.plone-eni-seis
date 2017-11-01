@@ -1,6 +1,6 @@
 Deploys
 =======
-5.5.9 #88611 - Include new small fixes (theme).
+5.5.9 #88611, #89536, #89537, #89546 - Include new small fixes (theme).
 5.5.8 #88594 - eea.meeting - Mail archive view; eni.seis.content - improve
                overrided templated texts
 5.5.7 #88611 - Feature: Add video (custom behavior for videos added in meetings)

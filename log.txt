@@ -1,5 +1,6 @@
 Deploys
 =======
+5.7.0 #82889 - Folderish types (events, news items, pages)
 5.6.2 #82898 - make invisible table's cells visible
 5.6.1 #82899 - improve dialog styles for TinyMCE pop-ups
 5.6.0 #89956 - update position field in register form

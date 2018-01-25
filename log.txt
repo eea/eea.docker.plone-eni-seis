@@ -1,5 +1,6 @@
 Deploys
 =======
+5.7.3 #91703 - Waste: update (again) text on hover section.
 5.7.2 #91703 - Waste: update text on hover section.
 5.7.1 #91703 - New section: Areas of work / Data / Waste
 5.7.0 #82889 - Folderish types (events, news items, pages)

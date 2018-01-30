@@ -1,6 +1,7 @@
 Deploys
 =======
-5.7.3 #88609 - eea.meeting: add link on subscribers (in table)
+5.7.3 #88609, #92247, #88608 - eea.meeting: add link on subscribers (in table),
+      eni.seis.content, eni.seis.theme - update footer, get rid of EIONET texts
 5.7.2 #91703 - Waste: update text on hover section.
 5.7.1 #91703 - New section: Areas of work / Data / Waste
 5.7.0 #82889 - Folderish types (events, news items, pages)

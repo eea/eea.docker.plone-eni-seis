@@ -1,5 +1,7 @@
 Deploys
 =======
+5.7.6 #92252 #92257 #92249 #92268 #92258 #92272 #92251 #92267 #92854 #92256
+      #92273 #92250 - eni.seis.content, eni.seis.theme, eea.meeting
 5.7.5 #92249 - eea.meeting - improve editing participants
 5.7.3 #88609, #92247, #88608 - eea.meeting: add link on subscribers (in table),
       eni.seis.content, eni.seis.theme - update footer, get rid of EIONET texts

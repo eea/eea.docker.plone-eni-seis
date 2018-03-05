@@ -1,9 +1,25 @@
 Deploys
 =======
+5.7.7 #93547 - South: country page: horizontal scroll wider tables. (TODO: clean)
+      #93380 - South: hide duplicate icons in Contents table.
+      #93380 - Both: folder_gallery_view                 (TODO: configuration)
+      #93380 - Fix images max width in content core.
 
-5.7.6 #92252 #92257 #92249 #92268 #92258 #92272 #92251 #92267 #92854 #92256
-      #92273 #92250 - eni.seis.content, eni.seis.theme, eea.meeting
+5.7.6 #92252 - Newsletter URL
+      #92257 - Make the newsletter more visible          (TODO: content edit)
+      #92249 - Improvement for editing paticipants
+      #92268 - East: Links to country indicators
+      #92258 - South: Country page: Local Events -> National Events
+      #92272 - "pull quote" style from TinyMCE Editor
+      #92251 - Remove portlets in all pages
+      #92267 - URLs css style
+      #92854 - News items - first letter style
+      #92256 - Webminar
+      #92273 - "Subheading" style in TinyMCE editor       (TODO: configuration)
+      #92250 - Change menus text                          (TODO: content edit)
 5.7.5 #92249 - eea.meeting - improve editing participants
+--- Production is here --------------------------------- verified 2018.03.02---
+--- Demo is here --------------------------------------- verified 2018.03.02---
 5.7.3 #88609, #92247, #88608 - eea.meeting: add link on subscribers (in table),
       eni.seis.content, eni.seis.theme - update footer, get rid of EIONET texts
 5.7.2 #91703 - Waste: update text on hover section.

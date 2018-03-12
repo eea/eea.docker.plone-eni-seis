@@ -1,5 +1,6 @@
 Deploys
 =======
+5.7.8 #92650 - Solve wrong events (eea.meeting) dates display
 --- Demo is here --------------------------------------- verified 2018.03.07---
 5.7.7 #93547 - South: country page: horizontal scroll wider tables. (clean fix)
       #93380 - South: hide duplicate icons in Contents table.

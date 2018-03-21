@@ -2,6 +2,7 @@ Deploys
 =======
 5.7.9 #94043 - News item view: lead image styles                    (clean fix)
              - Add read more js       (update portal_javascripts, clean custom)
+      #92252 - Footer: Update URLs for newsletter, add link on Newsletter title
 
 --- Production is here --------------------------------- verified 2018.03.19---
 --- Demo is here --------------------------------------- verified 2018.03.19---

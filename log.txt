@@ -3,6 +3,9 @@ Deploys
 5.7.9 #94043 - News item view: lead image styles                    (clean fix)
              - Add read more js       (update portal_javascripts, clean custom)
       #92252 - Footer: Update URLs for newsletter, add link on Newsletter title
+      #92252 - Homepage: Update URLs for newsletter. Also in Communication.
+      #92252 - South: add newsletter icon (svg)
+      #92252 - Newsletters view template                 (manual configuration)
 
 --- Production is here --------------------------------- verified 2018.03.19---
 --- Demo is here --------------------------------------- verified 2018.03.19---

@@ -8,6 +8,7 @@ Deploys
       #92252 - Newsletters view template                 (manual configuration)
       #94243 - Link view: solve duplicate portal message.
       #94247 - Fix page content full width broken by edit bar for small screen
+      #92274 - Add behavior for FAQ sections on view
 
 --- Production is here --------------------------------- verified 2018.03.19---
 --- Demo is here --------------------------------------- verified 2018.03.19---

@@ -1,6 +1,7 @@
 Deploys
 =======
-5.7.9 #94043 - News item view: lead image styles                    (clean fix)
+5.7.9 #94723 - News item view: add space between countries and text (clean fix)
+      #94043 - News item view: lead image styles                    (clean fix)
              - Add read more js       (update portal_javascripts, clean custom)
       #92252 - Footer: Update URLs for newsletter, add link on Newsletter title
       #92252 - Homepage: Update URLs for newsletter. Also in Communication.

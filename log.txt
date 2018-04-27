@@ -1,5 +1,6 @@
 Deploys
 =======
+--- Demo is here --------------------------------------- verified 2018.04.27---
 5.7.9 #94679 - Fix pull out quote issue
       #94723 - News item view: add space between countries and text (clean fix)
       #94043 - News item view: lead image styles                    (clean fix)
@@ -13,7 +14,6 @@ Deploys
       #92274 - Add behavior for FAQ sections on view (WIP)
 
 --- Production is here --------------------------------- verified 2018.03.19---
---- Demo is here --------------------------------------- verified 2018.03.19---
 5.7.8 #92650 - Solve wrong events (eea.meeting) dates display
 5.7.7 #93547 - South: country page: horizontal scroll wider tables. (clean fix)
       #93380 - South: hide duplicate icons in Contents table.

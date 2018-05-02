@@ -1,5 +1,8 @@
 Deploys
 =======
+5.8.0 #92270 - East - Countries: Dynamic table for Environmental Reports
+      #92269 - East - Countries: change layout for country visits pages
+
 --- Demo is here --------------------------------------- verified 2018.04.27---
 5.7.9 #94679 - Fix pull out quote issue
       #94723 - News item view: add space between countries and text (clean fix)

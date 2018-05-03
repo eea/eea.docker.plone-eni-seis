@@ -1,5 +1,6 @@
 Deploys
 =======
+5.8.1 #95177 - Move Google Analytics tracking code in head.
 5.8.0 #92270 - East - Countries: Dynamic table for Environmental Reports
       #92269 - East - Countries: change layout for country visits pages
 

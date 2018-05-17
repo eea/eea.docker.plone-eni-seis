@@ -1,5 +1,6 @@
 Deploys
 =======
+      #94091 - Add news images in news listing
       #95523 - Hide duplicate icons in tabular view of a folder
       #95498 - South: country news, events                  (check skins order)
 5.8.6 #92275 - Functionality for resizing tables to be improved (manual config)

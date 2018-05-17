@@ -1,5 +1,6 @@
 Deploys
 =======
+      #95498 - South: country news, events                  (check skins order)
 5.8.6 #92275 - Functionality for resizing tables to be improved (manual config)
       #92275 - Fix styles conflict (width 100%) for edited tables with tinyMCE
 5.8.3 #92274 - Add TinyMCE plugin for creating ENI FAQ Sections.

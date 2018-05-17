@@ -1,6 +1,7 @@
 Deploys
 =======
-      #94091 - Add news images in news listing
+5.8.7 #94091 - Add news images in news listing
+             - Update scripts and templates related to newsletter / news URLs
              - Manual configuration: rename in /south/communication/
                newsletter -> news
                communication-newsletter -> newsletter

@@ -3,6 +3,7 @@ Deploys
 5.9.0 #93660 - South: Country view updated layout.
 5.8.9 #92252 - Newsletter, news - fix links to work on demo, too.
 
+--- Production is here --------------------------------- verified 2018.06.12---
 --- Demo is here --------------------------------------- verified 2018.05.17---
 5.8.7 #94091 - Add news images in news listing
              - Update scripts and templates related to newsletter / news URLs
@@ -31,7 +32,6 @@ Deploys
       #94247 - Fix page content full width broken by edit bar for small screen
       #92274 - Add behavior for FAQ sections on view (WIP)
 
---- Production is here --------------------------------- verified 2018.03.19---
 5.7.8 #92650 - Solve wrong events (eea.meeting) dates display
 5.7.7 #93547 - South: country page: horizontal scroll wider tables. (clean fix)
       #93380 - South: hide duplicate icons in Contents table.

@@ -1,5 +1,6 @@
 Deploys
 =======
+5.9.2 #96597 - Fixblobs: Fix links href in listed broken links.
 5.9.1 #96597 - Add Fixblobs solution.
       #96364 - Fix getLeadImagePath to work for folderish news.     (clean fix)
 5.9.0 #93660 - South: Country view updated layout.

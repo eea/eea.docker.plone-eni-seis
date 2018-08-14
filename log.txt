@@ -5,6 +5,7 @@ Deploys
                 upgrade step: import types)
       #97723 - Fix preview image for eea meeting objects.
                (manual config: clean customized getLeadImagePath.py script)
+      #97021 - Make global style for fancy-first-letter.            (clean fix)
 
 5.9.2 #96597 - Fixblobs: Fix links href in listed broken links.
 5.9.1 #96597 - Add Fixblobs solution.

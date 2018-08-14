@@ -1,7 +1,10 @@
 Deploys
 =======
 5.9.3 #97716 - Newsletters section - new design + content type.
-               (manual config: folder_newsletters_view as folder display)
+               (manual config: folder_newsletters_view as folder display
+                upgrade step: import types)
+      #97723 - Fix preview image for eea meeting objects.
+               (manual config: clean customized getLeadImagePath.py script)
 
 5.9.2 #96597 - Fixblobs: Fix links href in listed broken links.
 5.9.1 #96597 - Add Fixblobs solution.

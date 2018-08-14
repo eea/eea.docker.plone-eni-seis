@@ -1,5 +1,8 @@
 Deploys
 =======
+5.9.3 #97716 - Newsletters section - new design + content type.
+               (manual config: folder_newsletters_view as folder display)
+
 5.9.2 #96597 - Fixblobs: Fix links href in listed broken links.
 5.9.1 #96597 - Add Fixblobs solution.
       #96364 - Fix getLeadImagePath to work for folderish news.     (clean fix)

@@ -1,7 +1,9 @@
 Deploys
 =======
+5.9.4 #96861 - Add custom template for newsitem: newsitem_nolisting_view.
+               (manual config: add newsitem_nolisting_view as newsitem display)
 5.9.3 #97716 - Newsletters section - new design + content type.
-               (manual config: folder_newsletters_view as folder display
+               (manual config: add folder_newsletters_view as folder display
                 upgrade step: import types)
       #97723 - Fix preview image for eea meeting objects.
                (manual config: clean customized getLeadImagePath.py script)

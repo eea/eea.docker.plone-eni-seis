@@ -1,5 +1,6 @@
 Deploys
 =======
+--- Demo is here --------------------------------------- verified 2018.09.05---
 5.9.4 #96861 - Add custom template for newsitem: newsitem_nolisting_view.
                (manual config: add newsitem_nolisting_view as newsitem display)
 5.9.3 #97716 - Newsletters section - new design + content type.
@@ -16,7 +17,6 @@ Deploys
 5.8.9 #92252 - Newsletter, news - fix links to work on demo, too.
 
 --- Production is here --------------------------------- verified 2018.06.12---
---- Demo is here --------------------------------------- verified 2018.05.17---
 5.8.7 #94091 - Add news images in news listing
              - Update scripts and templates related to newsletter / news URLs
              - Manual configuration: rename in /south/communication/

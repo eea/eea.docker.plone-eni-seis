@@ -1,5 +1,6 @@
 Deploys
 =======
+5.9.5 #99222 - Matomo statistics             (manual config: add tracking code)
 --- Production is here --------------------------------- verified 2018.09.28---
 --- Demo is here --------------------------------------- verified 2018.09.05---
 5.9.4 #96861 - Add custom template for newsitem: newsitem_nolisting_view.

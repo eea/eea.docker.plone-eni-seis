@@ -1,0 +1,3 @@
+src/
+docker-compose.yml
+fix_permissions.sh

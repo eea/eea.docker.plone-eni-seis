@@ -4,6 +4,7 @@ Deploys
                (manual config: update content rules texts for sending mails
                after updating eea.meeting. Add text for rejection case.)
              - Update buildout to use tlspu.cookiepolicy.
+             - Get rid of eea.socialmedia.   (manual config: deactivate before)
 --- Demo is here --------------------------------------- verified 2018.10.09---
 --- Production is here --------------------------------- verified 2018.10.11---
 5.9.5 #99222 - Matomo statistics             (manual config: add tracking code)

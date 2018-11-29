@@ -8,6 +8,7 @@ Deploys
              - Update buildout to use tlspu.cookiepolicy.
              - Add TLSPU Cookie Policy 1.1.6.  (manual: activate, run upgrades)
              - Update buildout: do not include eea.versions.
+             - Update theme to include styles for cookies policy message.
 
 --- Demo is here --------------------------------------- verified 2018.10.09---
 --- Production is here --------------------------------- verified 2018.10.11---

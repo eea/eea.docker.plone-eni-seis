@@ -1,5 +1,6 @@
 Deploys
 =======
+5.9.7 #96598 - Fix privacy statement link in footer.
 5.9.6 #96598 - Update KGS to 18.10.30.        (manual config: run all upgrades)
              - Get rid of eea.socialmedia.   (manual config: deactivate before)
              - Use improved eea.meeting.   (manual config: update content rules

@@ -1,5 +1,6 @@
 Deploys
 =======
+--- Demo is here --------------------------------------- verified 2018.12.03---
 5.9.7 #96598 - Fix privacy statement link in footer.
 5.9.6 #96598 - Update KGS to 18.10.30.        (manual config: run all upgrades)
              - Get rid of eea.socialmedia.   (manual config: deactivate before)
@@ -11,7 +12,6 @@ Deploys
              - Update buildout: do not include eea.versions.
              - Update theme to include styles for cookies policy message.
 
---- Demo is here --------------------------------------- verified 2018.10.09---
 --- Production is here --------------------------------- verified 2018.10.11---
 
 5.9.5 #99222 - Matomo statistics             (manual config: add tracking code)

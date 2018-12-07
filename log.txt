@@ -1,5 +1,18 @@
 Deploys
 =======
+5.9.8 #96598 #97529 eea.meeting 1.2, eni.seis.content 1.0, eni.seis.theme 1.0
+      Changes:
+      - add disclaimer privacy statement checkbox in meeting register.
+      - add request_data_deletion field for subscriber.
+      - update subscriber view to include its value.
+      - fix eea.versions warning by reverting to original CanonicalURL viewlet.
+      - fix add Document (Page) as addable content type to workspace.
+      - fix workspace folders to be listed in files listing of meeting view.
+      - items access rules by adding the view @@current_user_has_access.
+      - add get meeting contents method in meeting view.
+      - add get meeting contents by case (to include public vs workspace
+        related items).
+
 --- Demo is here --------------------------------------- verified 2018.12.03---
 5.9.7 #96598 - Fix privacy statement link in footer.
 5.9.6 #96598 - Update KGS to 18.10.30.        (manual config: run all upgrades)

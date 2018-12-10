@@ -1,10 +1,11 @@
 Deploys
 =======
+--- Demo is here --------------------------------------- verified 2018.12.10---
 5.9.9 #96598        eea.meeting 1.2, eni.seis.content 1.0, eni.seis.theme 1.1
       Changes:
       - fix icon for eea.meeting.workspace.
 
-5.9.8 #96598 #97529 eea.meeting 1.2, eni.seis.content 1.0, eni.seis.theme 1.0
+5.9.8 #96598 #97529 eea.meeting 1.2, eni.seis.content 1.0, eni.seis.theme 1.0„„
       Changes:
       - add disclaimer privacy statement checkbox in meeting register.
       - add request_data_deletion field for subscriber.
@@ -16,8 +17,6 @@ Deploys
       - add get meeting contents method in meeting view.
       - add get meeting contents by case (to include public vs workspace
         related items).
-
---- Demo is here --------------------------------------- verified 2018.12.03---
 5.9.7 #96598 - Fix privacy statement link in footer.
 5.9.6 #96598 - Update KGS to 18.10.30.        (manual config: run all upgrades)
              - Get rid of eea.socialmedia.   (manual config: deactivate before)

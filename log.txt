@@ -1,5 +1,9 @@
 Deploys
 =======
+5.9.9 #96598        eea.meeting 1.2, eni.seis.content 1.0, eni.seis.theme 1.1
+      Changes:
+      - fix icon for eea.meeting.workspace.
+
 5.9.8 #96598 #97529 eea.meeting 1.2, eni.seis.content 1.0, eni.seis.theme 1.0
       Changes:
       - add disclaimer privacy statement checkbox in meeting register.

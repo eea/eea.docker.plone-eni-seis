@@ -1,6 +1,15 @@
 Deploys
 =======
-6.0.0 #100474 WIP latest KGS 18.12.5
+6.0.1 #100474 #97529
+      eea.meeting 1.2.1, e.seis.content 1.0, eni.seis.theme 1.1.1
+
+      Changes:
+      - Get rid of Google dependecy. (Move font from Google Fonts to skins,
+        use our jquery.)
+      - Improve: create public folder and workspace on meeting item created.
+      - Improve: items listing in meeting view.
+
+6.0.0 #100474 Use latest KGS 18.12.5
 
 --- Demo is here --------------------------------------- verified 2018.12.10---
 5.9.9 #96598        eea.meeting 1.2, eni.seis.content 1.0, eni.seis.theme 1.1

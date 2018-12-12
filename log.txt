@@ -4,7 +4,7 @@ Deploys
       eea.meeting 1.2.1, e.seis.content 1.0, eni.seis.theme 1.1.1
 
       Changes:
-      - Get rid of Google dependecy. (Move font from Google Fonts to skins,
+      - Get rid of Google dependency. (Move font from Google Fonts to skins,
         use our jquery.)
       - Improve: create public folder and workspace on meeting item created.
       - Improve: items listing in meeting view.

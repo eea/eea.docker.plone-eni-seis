@@ -10,6 +10,9 @@ Deploys
       - Improve: create public folder and workspace on meeting item created.
       - Improve: items listing in meeting view.
 
+      Manual step: add Countries field as behaviour for EEA Meeting dexterity
+      content type after importing types (workspace).
+
 6.0.0 #100474 Use latest KGS 18.12.5
 
 5.9.9 #96598        eea.meeting 1.2, eni.seis.content 1.0, eni.seis.theme 1.1

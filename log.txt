@@ -19,7 +19,7 @@ Deploys
       - Improve: items listing in meeting view.
 
       Manual step: add Countries field as behaviour for EEA Meeting dexterity
-      content type after importing types (workspace).
+      content type after importing types (workspace). Also add Lead image.
 
 6.0.0 #100474 Use latest KGS 18.12.5
 

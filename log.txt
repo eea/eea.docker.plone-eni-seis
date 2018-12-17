@@ -1,6 +1,7 @@
 Deploys
 =======
 --- Demo is here --------------------------------------- verified 2018.12.17---
+--- Production is here --------------------------------- verified 2018.12.17---
 6.0.2 #97529
       eea.meeting 1.2.2, e.seis.content 1.0, eni.seis.theme 1.1.1
 
@@ -49,8 +50,6 @@ Deploys
              - Add TLSPU Cookie Policy 1.1.6.  (manual: activate, run upgrades)
              - Update buildout: do not include eea.versions.
              - Update theme to include styles for cookies policy message.
-
---- Production is here --------------------------------- verified 2018.10.11---
 
 5.9.5 #99222 - Matomo statistics             (manual config: add tracking code)
 5.9.4 #96861 - Add custom template for newsitem: newsitem_nolisting_view.

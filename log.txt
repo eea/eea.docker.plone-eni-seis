@@ -1,5 +1,6 @@
 Deploys
 =======
+--- Demo is here --------------------------------------- verified 2018.12.17---
 6.0.2 #97529
       eea.meeting 1.2.2, e.seis.content 1.0, eni.seis.theme 1.1.1
 
@@ -8,7 +9,6 @@ Deploys
       - Fix: typo webminar -> webinar.
       - Fix: Hide private items in meeting view if no access rights.
 
---- Demo is here --------------------------------------- verified 2018.12.12---
 6.0.1 #100474 #97529
       eea.meeting 1.2.1, e.seis.content 1.0, eni.seis.theme 1.1.1
 

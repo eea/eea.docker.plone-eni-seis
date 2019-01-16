@@ -1,5 +1,9 @@
 Deploys
 =======
+6.0.3 #101533
+      Changes:
+      - use latest EEA.KGS: 19.1.16
+
 --- Demo is here --------------------------------------- verified 2018.12.17---
 --- Production is here --------------------------------- verified 2018.12.17---
 6.0.2 #97529

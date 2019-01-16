@@ -1,5 +1,8 @@
 Deploys
 =======
+
+--- Demo is here --------------------------------------- verified 2019.01.16---
+--- Production is here --------------------------------- verified 2019.01.16---
 6.0.3 #101533
 
       eea.meeting 1.2.2, e.seis.content 1.0.1, eni.seis.theme 1.1.2
@@ -8,8 +11,6 @@ Deploys
       - use latest EEA.KGS: 19.1.16
       - South: Add icon for Key docs tab in country view.
 
---- Demo is here --------------------------------------- verified 2018.12.17---
---- Production is here --------------------------------- verified 2018.12.17---
 6.0.2 #97529
       eea.meeting 1.2.2, e.seis.content 1.0, eni.seis.theme 1.1.1
 

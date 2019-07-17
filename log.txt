@@ -1,18 +1,39 @@
 Deploys
 =======
 
+6.0.4 #107647
+      eea.meeting 1.2.7, eni.seis.content 1.0.1, eni.seis.theme 1.1.2
+
+      Changes:
+      - use latest EEA.KGS: 19.7.4
+      in eea.meeting:
+      - in case of webinar, disable E-pass field in meeting edit form
+      - Redirect to meeting instead of raising Unauthorised - workspaces
+      - Add a meesage for this case ^.
+      - Cut View permission for Anonymous users in Workspace context.
+      - Add min and max values for From and To fields in meeting edit form.
+      - Add meeting_contact_name string substitution.
+      - Add meeting_when string substitution on approve participant.
+      - Event when: use human readable date in string substitution.
+      - Add subscriber_userid string substitution to be used in email on
+        approve registration.
+      - Add When and Where string substitutions for subscriber on
+        register case.
+      - Add a new human readable date format, to be used in
+        events_listing (Copernicus Land).
+
 --- Demo is here --------------------------------------- verified 2019.01.16---
 --- Production is here --------------------------------- verified 2019.01.16---
 6.0.3 #101533
 
-      eea.meeting 1.2.2, e.seis.content 1.0.1, eni.seis.theme 1.1.2
+      eea.meeting 1.2.2, eni.seis.content 1.0.1, eni.seis.theme 1.1.2
 
       Changes:
       - use latest EEA.KGS: 19.1.16
       - South: Add icon for Key docs tab in country view.
 
 6.0.2 #97529
-      eea.meeting 1.2.2, e.seis.content 1.0, eni.seis.theme 1.1.1
+      eea.meeting 1.2.2, eni.seis.content 1.0, eni.seis.theme 1.1.1
 
       Changes:
       - Improve: Update text for hide additional materials.
@@ -20,7 +41,7 @@ Deploys
       - Fix: Hide private items in meeting view if no access rights.
 
 6.0.1 #100474 #97529
-      eea.meeting 1.2.1, e.seis.content 1.0, eni.seis.theme 1.1.1
+      eea.meeting 1.2.1, eni.seis.content 1.0, eni.seis.theme 1.1.1
 
       Changes:
       - Get rid of Google dependency. (Move font from Google Fonts to skins,

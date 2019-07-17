@@ -1,6 +1,9 @@
 Deploys
 =======
 
+19.7.4-6.1 #107647
+      Change the tag format to include EEA.KGS version. No other changes.
+
 6.0.4 #107647
       eea.meeting 1.2.7, eni.seis.content 1.0.1, eni.seis.theme 1.1.2
 

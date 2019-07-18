@@ -1,6 +1,10 @@
 Deploys
 =======
 
+19.7.4-6.3 #107647
+      eea.meeting 1.2.7, eni.seis.content 1.0.2, eni.seis.theme 1.1.3
+      Add sentry configuration. Manual step: activate eea.sentry.
+
 19.7.4-6.2 #107647
       Add Sentry env vars.
 

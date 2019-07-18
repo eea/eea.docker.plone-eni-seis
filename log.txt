@@ -1,6 +1,9 @@
 Deploys
 =======
 
+19.7.4-6.2 #107647
+      Add Sentry env vars.
+
 19.7.4-6.1 #107647
       Change the tag format to include EEA.KGS version. No other changes.
 

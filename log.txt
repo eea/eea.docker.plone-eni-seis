@@ -1,6 +1,18 @@
 Deploys
 =======
 
+19.7.4-6.5 #108219
+      eea.meeting 1.2.7, eni.seis.content 1.0.3, eni.seis.theme 1.1.4
+
+      Changes:
+      - Update folder custom listing to have direct links in case of images.
+      - Fix broken svg links in css (East and South).
+      - Get rid of missing font included in css (East and South).
+      - Fix broken background images in East, get rid of unused / missing ones.
+
+--- Demo is here --------------------------------------- verified 2019.08.02---
+--- Production is here --------------------------------- verified 2019.08.02---
+
 19.7.4-6.4 #107647
       Sentry DSN to be set as rancher variable.
 
@@ -35,8 +47,6 @@ Deploys
       - Add a new human readable date format, to be used in
         events_listing (Copernicus Land).
 
---- Demo is here --------------------------------------- verified 2019.01.16---
---- Production is here --------------------------------- verified 2019.01.16---
 6.0.3 #101533
 
       eea.meeting 1.2.2, eni.seis.content 1.0.1, eni.seis.theme 1.1.2

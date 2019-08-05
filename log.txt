@@ -1,7 +1,10 @@
 Deploys
 =======
 
-19.7.4-6.5 #108219
+--- Demo is here --------------------------------------- verified 2019.08.05---
+--- Production is here --------------------------------- verified 2019.08.05---
+
+19.7.4-6.5 #108137
       eea.meeting 1.2.7, eni.seis.content 1.0.3, eni.seis.theme 1.1.4
 
       Changes:
@@ -9,9 +12,6 @@ Deploys
       - Fix broken svg links in css (East and South).
       - Get rid of missing font included in css (East and South).
       - Fix broken background images in East, get rid of unused / missing ones.
-
---- Demo is here --------------------------------------- verified 2019.08.02---
---- Production is here --------------------------------- verified 2019.08.02---
 
 19.7.4-6.4 #107647
       Sentry DSN to be set as rancher variable.

@@ -1,6 +1,10 @@
 Deploys
 =======
 
+19.7.4-6.6 #108137
+      eea.meeting 1.2.7, eni.seis.content 1.0.4, eni.seis.theme 1.1.5
+      - Feature: implement broken-links view and script.
+
 --- Demo is here --------------------------------------- verified 2019.08.05---
 --- Production is here --------------------------------- verified 2019.08.05---
 

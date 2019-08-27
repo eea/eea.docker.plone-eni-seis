@@ -1,5 +1,7 @@
 Deploys
 =======
+19.8.19-6.9 #108504
+      - Upgrade to latest KGS.
 
 19.7.4-6.8 #108137
       eea.meeting 1.2.7, eni.seis.content 1.0.6, eni.seis.theme 1.1.5

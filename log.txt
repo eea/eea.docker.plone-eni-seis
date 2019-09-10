@@ -1,5 +1,6 @@
 Deploys
 =======
+19.8.19-7.2 #108504 - eea.daviz 12.2
 19.8.19-7.1 #108504 - Add eea.daviz
 19.8.19-7.0 #108504
       eea.meeting 1.2.7, eni.seis.content 1.0.7, eni.seis.theme 1.1.5

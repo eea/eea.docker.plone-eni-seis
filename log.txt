@@ -1,5 +1,13 @@
 Deploys
 =======
+19.8.19-7.3 #108504
+      eea.meeting 1.2.7, eni.seis.content 1.0.8, eni.seis.theme 1.1.6
+      - IndicatorData content type.
+      - Fix blockquote font size in news items.
+      - Manual step: activate EEA Visualization API, EEA Forms, EEA Sparql,
+        EEA Google Charts, EEA Daviz.
+      - Manual step: /dexterity-types/indicatordata/@@behaviors - add Countries
+
 19.8.19-7.2 #108504 - eea.daviz 12.2
 19.8.19-7.1 #108504 - Add eea.daviz
 19.8.19-7.0 #108504

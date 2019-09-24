@@ -1,5 +1,10 @@
 Deploys
 =======
+19.8.19-7.4 #108504
+      eea.meeting 1.2.7, eni.seis.content 1.0.9, eni.seis.theme 1.1.6
+      - Indicators search (faceted). Manual step: import config.
+      - Fix links for topics and tags in indicatordata view.
+
 19.8.19-7.3 #108504
       eea.meeting 1.2.7, eni.seis.content 1.0.8, eni.seis.theme 1.1.6
       - IndicatorData content type.

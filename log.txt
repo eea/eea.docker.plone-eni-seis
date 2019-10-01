@@ -1,5 +1,14 @@
 Deploys
 =======
+19.8.19-7.5 #108504
+      eea.meeting 1.2.7, eni.seis.content 1.1.0, eni.seis.theme 1.1.7
+      - Add style for custom tables in indicator view.
+      - Fix error when fields are empty in indicator view.
+      - Custom indicators listing for search section.
+      - Manual step: disable portlets for indicators folder.
+        Else the styles are broken because main.page-main instead
+        of div.page-main.
+
 19.8.19-7.4 #108504
       eea.meeting 1.2.7, eni.seis.content 1.0.9, eni.seis.theme 1.1.6
       - Indicators search (faceted). Manual step: import config.

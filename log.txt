@@ -1,5 +1,10 @@
 Deploys
 =======
+19.8.19-7.6 #108504
+      eea.meeting 1.2.8, eni.seis.content 1.1.0, eni.seis.theme 1.1.7
+      - Meeting: more entries per page options
+      - eea.googlecharts 19.5rc1 - add palette for ENI SEIS
+
 19.8.19-7.5 #108504
       eea.meeting 1.2.7, eni.seis.content 1.1.0, eni.seis.theme 1.1.7
       - Add style for custom tables in indicator view.

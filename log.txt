@@ -1,5 +1,13 @@
 Deploys
 =======
+19.8.19-7.7 #110353 #107341 #108504 #110078
+      eea.meeting 1.2.8, eni.seis.content 1.1.1, eni.seis.theme 1.1.8
+      - Meetings table view describe webinar's location as 'Webinar'
+      - SEEA Progress section template.
+      - Manual step: add seea-progress_root as display type for Folder.
+      - Fix lead image listing for indicators in search page.
+      - Manual step: delete template customization in production website (East)
+
 19.8.19-7.6 #108504
       eea.meeting 1.2.8, eni.seis.content 1.1.0, eni.seis.theme 1.1.7
       - Meeting: more entries per page options

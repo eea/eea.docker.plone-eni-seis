@@ -1,5 +1,14 @@
 Deploys
 =======
+19.8.19-7.8 #110431 #108504
+      eea.meeting 1.2.8, eni.seis.content 1.1.2, eni.seis.theme 1.1.9
+      - Update SEEA Progress page table section.
+      - Update links for tags and topics in indicatordata view.
+      - Update configuration for indicators search.
+      - Add new indexes in portal_catalog for indicatordata.
+      - Fix missing content because of wrong css in Indicators and Assessments.
+      - Manual step: import config. Also, run upgrade step and reindex.
+
 19.8.19-7.7 #110353 #107341 #108504 #110078
       eea.meeting 1.2.8, eni.seis.content 1.1.1, eni.seis.theme 1.1.8
       - Meetings table view describe webinar's location as 'Webinar'

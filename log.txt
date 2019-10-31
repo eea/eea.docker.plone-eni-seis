@@ -1,5 +1,11 @@
 Deploys
 =======
+19.8.19-7.9 #110554 #110431
+      eea.meeting 1.2.8, eni.seis.content 1.1.3, eni.seis.theme 1.2.0
+      - Update SEEA Progress page table - value for Armenia 2.1.1.
+      - Add icon for SEEA Progress section.
+      - Hide indicators in main menu (East).
+
 19.8.19-7.8 #110431 #108504
       eea.meeting 1.2.8, eni.seis.content 1.1.2, eni.seis.theme 1.1.9
       - Update SEEA Progress page table section.

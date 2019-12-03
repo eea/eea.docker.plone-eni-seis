@@ -1,5 +1,15 @@
 Deploys
 =======
+19.8.19-8.1 #110829 #111804 #107342
+      eea.meeting 1.2.9, eni.seis.content 1.1.5, eni.seis.theme 1.2.2
+      - Editable page for SEEA Progress Table.
+      - Manual step: add seea-progress/seea-progress-table-section page
+        containing the HTML for table section
+        (see example in seea-progress_root.pt -
+        data-diazo='seea-content-section3').
+      - Fix space for publication date in indicators search.
+      - WIP Results section.
+
 19.8.19-8.0 #110829 #110772
       eea.meeting 1.2.9, eni.seis.content 1.1.4, eni.seis.theme 1.2.1
       - Update indicators search design and configuration. Manual step: import.

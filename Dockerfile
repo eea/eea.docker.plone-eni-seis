@@ -1,11 +1,11 @@
-FROM eeacms/kgs:19.8.19
+FROM eeacms/kgs:19.11.30
 MAINTAINER "EEA: IDM2 B-Team"
 
 ENV GRAYLOG_FACILITY=eni-plone
 ENV SENTRY_DSN=
 
 ENV SENTRY_SITE=
-ENV SENTRY_RELEASE=19.8.19-8.0
+ENV SENTRY_RELEASE=19.11.30-8.0
 
 COPY buildout.cfg /plone/instance/
 RUN buildout

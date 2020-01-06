@@ -1,5 +1,9 @@
 Deploys
 =======
+
+19.12.31-8.4 #107342
+      - Upgrade to latest KGS.
+
 19.11.30-8.3 #110823
       eea.meeting 1.2.9, eni.seis.content 1.1.6, eni.seis.theme 1.2.2
       - DaViz dashboard rendering in indicator view.

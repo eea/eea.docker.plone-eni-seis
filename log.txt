@@ -1,6 +1,15 @@
 Deploys
 =======
 
+20.1.11-8.5 107342
+      eea.meeting 1.2.9, eni.seis.content 1.1.7, eni.seis.theme 1.2.3
+      - Indicators: Settings for dashboards heights
+      - Results page
+        Manual step: create /east/governance/results/ folder.
+        Manual step: add results_root_east in
+        /east/portal_types/Folder/manage_propertiesForm and set is as display
+        mode for Results folder.
+
 19.12.31-8.4 #107342
       - Upgrade to latest KGS.
 

@@ -1,7 +1,20 @@
 Deploys
 =======
 
-20.1.11-8.5 107342
+20.1.11-8.6 #107342 #113206
+      eea.meeting 1.2.9, eni.seis.content 1.1.8, eni.seis.theme 1.2.4
+
+      - solve iframe larger than layout issue in Data and statistics.
+      - Results, Testimonials.
+      - add space under figures in indicatordata view.
+      - Manual step: add page /east/governance/results/testimonials, use
+        content from testimonials_demo template.
+      - Manual step: add folder /east/governance/results/photos, set display
+        as photo gallery.
+      - Manual step: add folder /east/governance/results/case-studies, set
+        display as news listing.
+
+20.1.11-8.5 #107342
       eea.meeting 1.2.9, eni.seis.content 1.1.7, eni.seis.theme 1.2.3
       - Indicators: Settings for dashboards heights
       - Results page

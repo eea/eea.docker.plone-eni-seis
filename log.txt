@@ -1,6 +1,11 @@
 Deploys
 =======
 
+20.1.11-8.7 #113379
+      eea.meeting 1.2.9, eni.seis.content 1.1.9, eni.seis.theme 1.2.4
+      - skip daviz title in embeded chart and dashboard
+      - fix countries link in Results
+
 20.1.11-8.6 #107342 #113206
       eea.meeting 1.2.9, eni.seis.content 1.1.8, eni.seis.theme 1.2.4
 

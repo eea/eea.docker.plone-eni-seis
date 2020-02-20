@@ -1,6 +1,12 @@
 Deploys
 =======
 
+20.1.11-8.8 #114456
+      eea.meeting 1.3.0, eni.seis.content 1.2.0, eni.seis.theme 1.2.5
+      - add Access env section (East).
+      - featured meetings option
+      - Manual step: set template, rename item.
+
 20.1.11-8.7 #113379
       eea.meeting 1.2.9, eni.seis.content 1.1.9, eni.seis.theme 1.2.4
       - skip daviz title in embeded chart and dashboard

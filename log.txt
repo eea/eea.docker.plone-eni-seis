@@ -1,8 +1,9 @@
 Deploys
 =======
 
-20.1.11-8.9 #114456
+20.2.24-8.9 #114456
       eea.meeting 1.3.0, eni.seis.content 1.2.1, eni.seis.theme 1.2.6
+      - Upgrade to latest KGS.
       - Access env section: fix colors for meetings level
 
 20.1.11-8.8 #114456

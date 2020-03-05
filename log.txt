@@ -1,6 +1,12 @@
 Deploys
 =======
 
+20.2.24-9.0 #114456 #107340
+      eea.meeting 1.3.0, eni.seis.content 1.2.2, eni.seis.theme 1.2.7
+      - national reports, good practice reports
+      - templates updates for country view and Countries
+      - Manual step: configure reports.
+
 20.2.24-8.9 #114456
       eea.meeting 1.3.0, eni.seis.content 1.2.1, eni.seis.theme 1.2.6
       - Upgrade to latest KGS.

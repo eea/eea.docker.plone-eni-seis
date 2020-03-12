@@ -1,6 +1,12 @@
 Deploys
 =======
 
+20.3.11-9.1 #115573 #115563
+      eea.meeting 1.3.0, eni.seis.content 1.2.3, eni.seis.theme 1.2.8
+      - Upgrade to latest KGS.
+      - add country events in country view - East.
+      - fix reports order by position in folder, in country view - East.
+
 20.2.24-9.0 #114456 #107340
       eea.meeting 1.3.0, eni.seis.content 1.2.2, eni.seis.theme 1.2.7
       - national reports, good practice reports

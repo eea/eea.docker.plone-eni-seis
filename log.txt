@@ -1,6 +1,14 @@
 Deploys
 =======
 
+20.3.11-9.5 #108137 #114456
+      eea.meeting 1.3.0, eni.seis.content 1.2.7, eni.seis.theme 1.3.2
+      - Improve: add link for broken links in personal menu.
+      - Improve: ProductItem listing - set view url to download file in case
+        it has one.
+      - Improve: script to check broken links in body text of eea.meeting
+        objects.
+
 20.3.11-9.4 #114456 #107342 #116119
       eea.meeting 1.3.0, eni.seis.content 1.2.6, eni.seis.theme 1.3.1
       - Fix: icons for new content types (South).

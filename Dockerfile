@@ -5,7 +5,7 @@ ENV GRAYLOG_FACILITY=eni-plone
 ENV SENTRY_DSN=
 
 ENV SENTRY_SITE=
-ENV SENTRY_RELEASE=20.3.11-9.5
+ENV SENTRY_RELEASE=20.3.11-9.7
 
 COPY buildout.cfg /plone/instance/
 RUN buildout

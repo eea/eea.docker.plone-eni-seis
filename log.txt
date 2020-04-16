@@ -1,7 +1,10 @@
 Deploys
 =======
 
-20.3.11-9.7 Sorry, no time.
+20.3.11-9.7 #116290
+      eea.meeting 1.3.1, eni.seis.content 1.2.9, eni.seis.theme 1.3.4
+      - Feature: expandable texts in events listing.
+      - Fix: East homepage and Areas of work - back to 5 items in aow slider.
 
 20.3.11-9.6 #116290 #107342 #108137
       eea.meeting 1.3.1, eni.seis.content 1.2.8, eni.seis.theme 1.3.3

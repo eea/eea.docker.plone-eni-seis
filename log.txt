@@ -1,6 +1,20 @@
 Deploys
 =======
 
+20.3.11-9.8 #116290 #116711 #116738
+      eea.meeting 1.3.1, eni.seis.content 1.3.0, eni.seis.theme 1.3.5
+      - Improve: Style for photo gallery. [GhitaB #116711]
+      - Fix: font style issue for ui widget. [GhitaB #116290]
+      - Improve: Update image for Communication in East Results section.
+      - Improve: Update info for SEEA in East Results section.
+      - Improve: Update Work Plans section title for SEEA in East
+        Results section. [GhitaB #116738]
+      - Fix: Add image caption in photo gallery. [GhitaB #116711]
+      - Fix: Remove expandable text in events listing - Land section.
+      - Improve: Add more categories for product item.
+      - Improve: Update Land products tab titles.
+      - Fix: Hide footer sections in Areas of work / Data. [GhitaB #116290]
+
 20.3.11-9.7 #116290
       eea.meeting 1.3.1, eni.seis.content 1.2.9, eni.seis.theme 1.3.4
       - Feature: expandable texts in events listing.

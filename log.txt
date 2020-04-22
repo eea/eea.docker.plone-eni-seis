@@ -1,6 +1,10 @@
 Deploys
 =======
 
+20.4.22-9.9 #116738
+      eea.meeting 1.3.1, eni.seis.content 1.3.0, eni.seis.theme 1.3.5
+      - Upgrade to latest KGS.
+
 20.3.11-9.8 #116290 #116711 #116738
       eea.meeting 1.3.1, eni.seis.content 1.3.0, eni.seis.theme 1.3.5
       - Improve: Style for photo gallery. [GhitaB #116711]

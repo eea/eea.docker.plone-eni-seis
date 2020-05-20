@@ -1,5 +1,14 @@
 Deploys
 =======
+20.5.14-9.11 #107340 #108137 #116290
+      eea.meeting 1.3.3, eni.seis.content 1.3.3, eni.seis.theme 1.3.8
+      - Upgrade to latest KGS.
+      - Fix: Update text in meta description. [GhitaB #116290]
+      - Improve: Increase timeout when checking a link. [GhitaB #108137]
+      - Improve: Show years in human readable format - national report view.
+      - Improve: table containing national reports in Countries to include
+        2019 and 2020. Fix title to use current month and year.
+        [GhitaB #107340]
 
 20.4.22-9.10 #116729 #116738 #116290 #116729 #116290
       eea.meeting 1.3.3, eni.seis.content 1.3.2, eni.seis.theme 1.3.7

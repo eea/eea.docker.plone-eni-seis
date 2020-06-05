@@ -1,5 +1,16 @@
 Deploys
 =======
+20.5.14-9.14 #118316 #107340
+      eea.meeting 1.3.3, eni.seis.content 1.3.6, eni.seis.theme 1.4.1
+      - Feature: new design for Indicators and Assessments section.
+        [GhitaB #118316]
+      - Improve: Get rid of unused fields of national report.
+      - Improve: Update national report view.
+      - Improve: Move indicators EEA tab in 2nd position. [GhitaB #107340]
+      - Feature: Add styles for Indicators and Assessments section.
+        [GhitaB #118316]
+      - Fix: widget for years in national report edit form [GhitaB #107340]
+
 20.5.14-9.13 #107340
       eea.meeting 1.3.3, eni.seis.content 1.3.5, eni.seis.theme 1.4.0
       - Improve: Same design for country view tables.

@@ -1,5 +1,9 @@
 Deploys
 =======
+20.6.6-9.16 #118619
+      eea.meeting 1.3.3, eni.seis.content 1.3.8, eni.seis.theme 1.4.3
+      - SEEA section - fix layout issue for table.
+
 20.6.6-9.15 #118619
       eea.meeting 1.3.3, eni.seis.content 1.3.7, eni.seis.theme 1.4.2
       - Upgrade to latest KGS.

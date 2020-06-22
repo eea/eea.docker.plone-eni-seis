@@ -1,6 +1,13 @@
 Deploys
 =======
 
+20.6.6-9.19 #118784
+      eea.meeting 1.3.3, eni.seis.content 1.4.0, eni.seis.theme 1.4.4
+      - Improve: Hide What field in event_summary.
+      - Improve: Remove tags column in events table view.
+      - Improve: CLC east: include simple events as featured items in listing.
+        [GhitaB #118784]
+
 20.6.6-9.18 #118784
       eea.meeting 1.3.3, eni.seis.content 1.4.0, eni.seis.theme 1.4.4
       - Improve: update menu of result categories in Results section.
